@@ -20,7 +20,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "#04c5db"
+        "$value": "#000000"
       },
       "500": {
         "$extensions": {
